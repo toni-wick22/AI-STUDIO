@@ -1,0 +1,6 @@
+<resources>
+    <color name="billiards_green">#166534</color>
+    <color name="billiards_cushion">#14532d</color>
+    <color name="billiards_gold">#facc15</color>
+    <color name="cue_white">#ffffff</color>
+</resources>

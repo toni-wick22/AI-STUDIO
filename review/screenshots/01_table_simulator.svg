@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#020617"/>
+  <!-- App Bar -->
+  <rect width="800" height="50" fill="#0f172a"/>
+  <circle cx="30" cy="25" r="14" fill="#10b981"/>
+  <text x="55" y="30" fill="#f8fafc" font-family="sans-serif" font-size="14" font-weight="bold">Cue Geometry Trainer</text>
+  <rect x="220" y="14" width="75" height="22" rx="6" fill="#10b981" fill-opacity="0.2"/>
+  <text x="232" y="29" fill="#34d399" font-family="sans-serif" font-size="10" font-weight="bold">v1.0 Offline</text>
+
+  <!-- Table Canvas -->
+  <rect x="50" y="70" width="700" height="350" rx="20" fill="#78350f"/>
+  <rect x="75" y="95" width="650" height="300" rx="8" fill="#14532d"/>
+  <rect x="85" y="105" width="630" height="280" fill="#166534"/>
+
+  <!-- Pockets -->
+  <circle cx="85" cy="105" r="18" fill="#000"/>
+  <circle cx="400" cy="101" r="16" fill="#000"/>
+  <circle cx="715" cy="105" r="18" fill="#000"/>
+  <circle cx="85" cy="385" r="18" fill="#000"/>
+  <circle cx="400" cy="389" r="16" fill="#000"/>
+  <circle cx="715" cy="385" r="18" fill="#000"/>
+
+  <!-- Balls -->
+  <circle cx="250" cy="245" r="12" fill="#fff" stroke="#94a3b8" stroke-width="1"/>
+  <circle cx="500" cy="245" r="12" fill="#facc15"/>
+  <text x="500" y="249" fill="#713f12" font-family="sans-serif" font-size="9" font-weight="bold" text-anchor="middle">1</text>
+
+  <!-- Aim line & Ghost Ball -->
+  <line x1="250" y1="245" x2="476" y2="245" stroke="#fff" stroke-width="3"/>
+  <circle cx="476" cy="245" r="12" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="3 3"/>
+  <line x1="500" y1="245" x2="715" y2="105" stroke="#facc15" stroke-width="3"/>
+</svg>

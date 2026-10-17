@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.CueGeometryTrainer" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0f172a</item>
+        <item name="android:navigationBarColor">#0f172a</item>
+    </style>
+</resources>

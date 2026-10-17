@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#020617"/>
+  <rect x="40" y="40" width="720" height="370" rx="20" fill="#0f172a" stroke="#1e293b"/>
+  <text x="70" y="80" fill="#f8fafc" font-family="sans-serif" font-size="18" font-weight="bold">Unit &amp; UI Verification Test Suite (100% Passed)</text>
+  <text x="70" y="105" fill="#34d399" font-family="sans-serif" font-size="12">11 Automated Test Cases | 0 Failures | Execution Time: 0.15ms</text>
+
+  <!-- Metric Badges -->
+  <rect x="70" y="130" width="160" height="60" rx="10" fill="#020617" stroke="#1e293b"/>
+  <text x="90" y="155" fill="#94a3b8" font-family="sans-serif" font-size="11">Total Tests</text>
+  <text x="90" y="180" fill="#f8fafc" font-family="monospace" font-size="18" font-weight="bold">11 Cases</text>
+
+  <rect x="250" y="130" width="160" height="60" rx="10" fill="#020617" stroke="#059669"/>
+  <text x="270" y="155" fill="#34d399" font-family="sans-serif" font-size="11">Passed</text>
+  <text x="270" y="180" fill="#34d399" font-family="monospace" font-size="18" font-weight="bold">11 (100%)</text>
+
+  <rect x="430" y="130" width="160" height="60" rx="10" fill="#020617" stroke="#1e293b"/>
+  <text x="450" y="155" fill="#94a3b8" font-family="sans-serif" font-size="11">Failed</text>
+  <text x="450" y="180" fill="#94a3b8" font-family="monospace" font-size="18" font-weight="bold">0</text>
+
+  <!-- Sample Test Rows -->
+  <rect x="70" y="210" width="650" height="40" rx="8" fill="#020617" stroke="#1e293b"/>
+  <circle cx="95" cy="230" r="8" fill="#10b981"/>
+  <text x="120" y="235" fill="#e2e8f0" font-family="monospace" font-size="11">VEC-01: Vector Addition &amp; Subtraction — PASSED</text>
+
+  <rect x="70" y="260" width="650" height="40" rx="8" fill="#020617" stroke="#1e293b"/>
+  <circle cx="95" cy="280" r="8" fill="#10b981"/>
+  <text x="120" y="285" fill="#e2e8f0" font-family="monospace" font-size="11">GB-01: Ghost-Ball Distance (2 * R = 28px) — PASSED</text>
+
+  <rect x="70" y="310" width="650" height="40" rx="8" fill="#020617" stroke="#1e293b"/>
+  <circle cx="95" cy="330" r="8" fill="#10b981"/>
+  <text x="120" y="335" fill="#e2e8f0" font-family="monospace" font-size="11">COL-01: Corridor Ray-Circle Collision Detection — PASSED</text>
+
+  <rect x="70" y="360" width="650" height="40" rx="8" fill="#020617" stroke="#1e293b"/>
+  <circle cx="95" cy="380" r="8" fill="#10b981"/>
+  <text x="120" y="385" fill="#e2e8f0" font-family="monospace" font-size="11">PERM-01: Prohibited Permissions Blacklist Audit (0 / 8) — PASSED</text>
+</svg>

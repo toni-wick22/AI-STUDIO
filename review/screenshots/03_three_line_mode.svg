@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#020617"/>
+  <rect x="40" y="40" width="720" height="370" rx="20" fill="#0f172a" stroke="#1e293b"/>
+  <text x="70" y="80" fill="#f8fafc" font-family="sans-serif" font-size="18" font-weight="bold">Three-Line Learning Mode</text>
+  <text x="70" y="105" fill="#94a3b8" font-family="sans-serif" font-size="12">Line 1: Aim Line (White) | Line 2: Object Path (Yellow) | Line 3: 90° Stun Tangent (Cyan)</text>
+
+  <!-- Impact Point -->
+  <circle cx="350" cy="240" r="25" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="4 3"/>
+  <circle cx="400" cy="240" r="25" fill="#facc15"/>
+
+  <!-- Line 1: Cue to Ghost -->
+  <line x1="120" y1="360" x2="350" y2="240" stroke="#ffffff" stroke-width="4"/>
+  <text x="210" y="320" fill="#ffffff" font-family="sans-serif" font-size="12" font-weight="bold">Line 1: Aim</text>
+
+  <!-- Line 2: Target to Pocket -->
+  <line x1="400" y1="240" x2="650" y2="240" stroke="#facc15" stroke-width="4"/>
+  <text x="520" y="230" fill="#facc15" font-family="sans-serif" font-size="12" font-weight="bold">Line 2: Target to Pocket</text>
+
+  <!-- Line 3: 90 Degree Tangent Line -->
+  <line x1="350" y1="240" x2="350" y2="70" stroke="#22d3ee" stroke-width="4" stroke-dasharray="6 4"/>
+  <text x="365" y="120" fill="#22d3ee" font-family="monospace" font-size="12" font-weight="bold">Line 3: 90° Stun Tangent</text>
+</svg>

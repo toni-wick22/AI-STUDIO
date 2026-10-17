@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <rect width="800" height="450" fill="#020617"/>
+  <rect x="40" y="40" width="720" height="370" rx="20" fill="#0f172a" stroke="#1e293b"/>
+  <text x="70" y="80" fill="#f8fafc" font-family="sans-serif" font-size="18" font-weight="bold">Collision Corridor &amp; Blocked-Path Detection</text>
+  <text x="70" y="105" fill="#f87171" font-family="sans-serif" font-size="12">Red warning line on obstructed shooting corridor with obstacle marker</text>
+
+  <!-- Cue Ball -->
+  <circle cx="150" cy="240" r="25" fill="#ffffff"/>
+
+  <!-- Blocked corridor line -->
+  <line x1="150" y1="240" x2="600" y2="240" stroke="#ef4444" stroke-width="4"/>
+
+  <!-- Obstacle Ball in corridor -->
+  <circle cx="380" cy="240" r="25" fill="#dc2626"/>
+  <circle cx="380" cy="240" r="32" fill="none" stroke="#ef4444" stroke-width="3" stroke-dasharray="4 4"/>
+  <rect x="340" y="180" width="80" height="24" rx="6" fill="#ef4444"/>
+  <text x="380" y="196" fill="#fff" font-family="sans-serif" font-size="10" font-weight="bold" text-anchor="middle">BLOCKED</text>
+
+  <!-- Target Ball -->
+  <circle cx="600" cy="240" r="25" fill="#facc15"/>
+</svg>

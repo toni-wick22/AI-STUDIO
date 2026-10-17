@@ -1,0 +1,6 @@
+{
+  "name": "Cue Geometry Trainer",
+  "description": "Educational billiards shot geometry simulator, ghost-ball trainer, bank/kick angle calculator, and interactive cue coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
